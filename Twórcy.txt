@@ -3,7 +3,7 @@ Kacper Kowalewski
 Jakub  Waszak
 
 Tytuł: Jeszcze nie zdecydowany
-Setting: Do zdecydowania 
+Setting: Jeszcze nie zdecydowany
 
 Co to za rodzaj gry?
 Próbujemy zrobić grę logiczną z elementami destrukcji otoczenia i zagadkami związanymi z interkacją z obiektami w świecie gry.
